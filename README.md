@@ -7,3 +7,4 @@
 003. Carregando imagens no mesmo diretório, em sub pastas e através da URL.
 004. Criando um favicon e carregando através da tag link.
 005. Entendendo hierarquia de titulos.
+006. Utilizando formatações com semântica em html.
