@@ -9,3 +9,4 @@
 005. Entendendo hierarquia de titulos.
 006. Utilizando formatações com semântica em html.
 007. Aprendendo sobre mais algumas formatações utilizando html.
+008. Criação de listas ordenadas, não ordenadas e de definições.
