@@ -10,5 +10,6 @@
 006. Utilizando formatações com semântica em html.
 007. Aprendendo sobre mais algumas formatações utilizando html.
 008. Criação de listas ordenadas, não ordenadas e de definições.
-009. utilização de links internos, externos e para download.
+009. Utilização de links internos, externos e para download.
 010. Aprendizado sobre utilização de imagens dinâmicas e audios.
+011. Inserindo vídeos *self hosted*, e também em plataformas Youtube e Vimeo.
