@@ -11,3 +11,4 @@
 007. Aprendendo sobre mais algumas formatações utilizando html.
 008. Criação de listas ordenadas, não ordenadas e de definições.
 009. utilização de links internos, externos e para download.
+010. Aprendizado sobre utilização de imagens dinâmicas e audios.
