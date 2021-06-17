@@ -18,3 +18,4 @@
 014. Representando cores (com e sem transparencia) com nomes e sistemas como hexadecimal, rgb e hsl.
 015. Aplicação de gradientes utilizando CSS.
 016. Primeiro exemplo de site criado aplicando estilos css.
+017. Utilização de seletores para fontes do conteúdo, alterando o estilo e tamanho da fonte utilizando medida relativa *em*. **A referencia contém um site muito útil, explicativo, sobre diversas funções do CSS, inclusive animações.**
