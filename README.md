@@ -16,3 +16,4 @@
 012. Utilização das CSS inline.
 013. Utilização das CSS de forma interna e externa de forma mesclada.
 014. Representando cores (com e sem transparencia) com nomes e sistemas como hexadecimal, rgb e hsl.
+015. Aplicação de gradientes utilizando CSS.
