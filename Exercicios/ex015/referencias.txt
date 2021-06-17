@@ -1,0 +1,6 @@
+Referencias:
+
+    -> Para criar paleta de cores personalizadas, também capturando de imagens e explorando a partir de paletas e imagens ja criadas usando o Adobe Color: https://color.adobe.com
+    -> Para criar uma paleta de cores e ver em um site como exemplo: https://paletton.com
+    -> Para criar uma paleta de cores aleatória, com possibilidade de fixar as cores que gostar: https://coolors.co/
+    
