@@ -1,0 +1,53 @@
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: lightgrey;
+            margin: 0px;
+        }
+        header {
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+        nav {
+            background-color: navy;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.726);
+            padding: 10px;
+        }
+        nav > a {
+            margin-left: 40px;
+            margin-right: 40px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+        nav > a:hover {
+            text-decoration: underline;
+        }
+        nav > a:visited {
+            color: white;
+        }
+        main {
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+        article {
+            background-color: lightgrey;
+            padding: 10px;
+            margin: 0px;
+            border-radius: 10px;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.726);
+        }
+        article > aside {
+            background-color: lightcoral;
+            text-align: right;
+        }
+        footer {
+            background-color: black;
+            margin: 10px;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+ 
