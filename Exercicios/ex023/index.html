@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+            /*      id -> #
+                    class -> .
+                    pseudo-class -> :
+                    pseudo-element -> ::
+                    children -> >       */
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a {
+            font-weight: bold;
+            text-decoration: none;
+            color: darkblue;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        a:visited {
+            color: darkred;
+        }
+        a:active {
+            color: darkmagenta;
+        }
+        a::after {
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: dimgrey;
+        }
+        .especial {
+            background-color: rgba(105, 67, 133, 0.877);
+        }
+        .especial::before {
+            content: '⇒ ';
+            color: fuchsia;
+        }
+        .especial::after {
+            content: ' ⇐';
+            color: fuchsia;
+        }
+    </style>
+    <title>Ex 023</title>
+</head>
+<body>
+    <h1>Pseudo-Classes</h1>
+    <h2>Contate-me</h2>
+    <ul>
+        <li>Meu repositório do Github -> <a href="https://github.com/SamuelNunesDev" target="_blank" rel="next" class="especial">https://github.com/SamuelNunesDev</a></li>
+        <li>Meu perfil no Instagram -> <a href="https://instagram.com/sam_freerider" target="_blank" rel="next">https://instagram.com/sam_freerider</a></li>
+        <li>Meu perfil no Facebook -> <a href="https://www.facebook.com/Samuel.Nunes.de.Souza2/" target="_blank" rel="next">https://www.facebook.com/Samuel.Nunes.de.Souza2/</a></li>
+    </ul>
+</body>
+</html>
