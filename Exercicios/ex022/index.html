@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        div > p {
+            display: none;
+        }
+        div:hover > p {
+            color: white;
+            background-color: red;
+            display: block;
+        }
+        div:hover {
+            color: red;
+        }
+        .bloco {
+            background-color: lightgray;
+            text-align: center;
+            border: 1px solid black;
+            height: 200px;
+            width: 200px;
+            display: inline-block;
+            padding: 15px;
+        }
+    </style>
+    <title>Ex 022</title>
+</head>
+<body>
+    <h1>Aprendendo Sobre Pseudo-Classes</h1>
+    <h2>Hover</h2>
+    <div>
+        Passe o mouse para ler o lorem.
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil doloremque expedita delectus ab iusto sunt quas facere itaque sapiente. Ad quaerat neque nostrum dolorem voluptatem voluptate explicabo a ipsam molestias!</p>
+    </div>
+    <div id="d1" class="bloco">01</div>
+    <div id="d2" class="bloco">02</div>    
+    <div id="d3" class="bloco">03</div>
+</body>
+</html>
