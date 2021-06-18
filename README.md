@@ -19,4 +19,5 @@
 015. Aplicação de gradientes utilizando CSS.
 016. Primeiro exemplo de site criado aplicando estilos css.
 017. Utilização de seletores para fontes do conteúdo, alterando o estilo e tamanho da fonte utilizando medida relativa *em*. **A referencia contém um site muito útil, explicativo, sobre diversas funções do CSS, inclusive animações.**
-018. Importando fonts diretamente do google fonts.
+018. Importando fontes diretamente do google fonts.
+019. Baixando fontes e usando regras em CSS para importá-las.
