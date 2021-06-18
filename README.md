@@ -22,3 +22,4 @@
 018. Importando fontes diretamente do google fonts.
 019. Baixando fontes e usando regras em CSS para importá-las.
 020. Alinhamento de texto com CSS.
+021. Aprendendo sobre id e class para criar seletores personalizados em CSS.
