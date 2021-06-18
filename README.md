@@ -24,3 +24,4 @@
 020. Alinhamento de texto com CSS.
 021. Aprendendo sobre id e class para criar seletores personalizados em CSS.
 022. Utilizando pseudo classes e praticando com a *hover*.
+023. Praticando pseudo classes e pseudo elements com *hover, active, visited, after, before*.
