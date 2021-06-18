@@ -1,0 +1,8 @@
+Referencias:
+
+    -> Site para baixar fontes personalizadas: https://www.dafont.com/pt/
+    -> Sites para descobrir fontes a partir de imagens: 
+    * https://www.whatfontis.com/
+    * https://www.fontsquirrel.com/
+    * https://www.myfonts.com/
+    
