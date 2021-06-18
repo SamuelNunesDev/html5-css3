@@ -23,3 +23,4 @@
 019. Baixando fontes e usando regras em CSS para importá-las.
 020. Alinhamento de texto com CSS.
 021. Aprendendo sobre id e class para criar seletores personalizados em CSS.
+022. Utilizando pseudo classes e praticando com a *hover*.
