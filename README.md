@@ -26,4 +26,4 @@
 022. Utilizando pseudo classes e praticando com a *hover*.
 023. Praticando pseudo classes e pseudo elements com *hover, active, visited, after, before*.
 024. Entendendo e praticando como funciona as caixas e suas propriedades *content, padding, border, outline e margin.*
-025. Utilizando tags semânticas para estruturar o site com sentido. Utilização de seletores para as tags e implementação de sombras e arrendodamento de bordas através da *box-shadow e border-radius*.
+025. Utilizando tags semânticas para estruturar o site com sentido. Utilização de seletores para as tags e implementação de sombras e arrendodamento de bordas através da *box-shadow e border-radius*.* Site para criação de wireframes -> https://mockflow.com/
