@@ -22,22 +22,29 @@ header {
     color: white;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.466);
 }
-header > h1 {
+header > p {
+    text-indent: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+h1 {
     font-size: 2.5em;
     margin: 0px;
     font-family: 'Roboto Condensed', sans-serif;
 }
-header > nav {
+nav {
     padding: 0px;
     text-align: left;
     border-bottom: 10px;
 }
-header > p {
+p {
     text-indent: 0.4em;
-    padding: 30px 10px 10px 0px;
+    padding: 10px 10px 10px 0px;
     font-family: Roboto, sans-serif;
     margin-bottom: 15px;
     margin-top: 0px;
+    text-align: justify;
 }
 nav > a {
     padding-left: 15px;
@@ -53,11 +60,6 @@ nav > a:hover {
     transition-duration: 1s;
     border-radius: 3px;
 }
-section > p {
-    text-align: justify;
-    text-indent: 1em;
-    font-family: Arial, Helvetica, sans-serif;
-}
 section {
     text-align: center;
     width: 1000px;
@@ -67,13 +69,13 @@ section {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.445);
 }
-section > h2 {
+h2 {
     text-align: left;
     margin: 0px;
     font-family: 'android', sans-serif;
     color: #185e12;
 }
-section > h3 {
+h3 {
     padding: 2px 10px;
     text-align: left;
     font-family: 'android', sans-serif;
@@ -93,4 +95,26 @@ p > a::after {
 }
 p > a:hover {
     text-decoration: underline;
+}
+span {
+    font-weight: bold;
+    color: #185e12;
+}
+#video {
+    background-color: #185e12;
+    border-radius: 3px;
+    box-shadow: 3px 3px 10px black;
+    padding: 15px 10px 10px 10px;
+}
+#lista {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 300px;
+    padding: 10px;
+}
+h4 {
+    background-color: #185e12;
+    color: white;
+    padding: 5px 5px 5px 15px;
+    text-align: left;
+    border-radius: 3px 3px 0px 0px;
 }
